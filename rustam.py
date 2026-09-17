@@ -21,3 +21,4 @@ print(t6)
 t7 = np.fromfile('prog.py', sep=',')
 print(t7)
 #task 7
+print(t7)
